@@ -6,8 +6,12 @@
 6. Geef het aan als je later bent
 7. Vraag op tijd hulp
 8. Kom afspraken en taken na
-9. Communicatie!
+9. Deel je inspiratie
+10. Communicatie!
 
 Afmelden of laat > WhatsApp
+
 Documenten en taken > GitHub
+
 Vragen / algemene communicatie / andere zaken > WhatsApp
+

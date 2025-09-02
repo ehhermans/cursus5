@@ -7,11 +7,11 @@
 
 
 ## Damiën
-🥇 
+🥇 Vibe coding
 
-🥈 
+🥈 Usability Lab en eye tracking
 
-🥉 
+🥉 Sound
 
 
 ## Levi

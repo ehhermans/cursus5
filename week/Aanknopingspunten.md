@@ -1,5 +1,5 @@
 ### Bronnen
-- - https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/
+- https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/
 - https://www.yivi.app/
 - [De Europese id-wallet: hoe, wat en waarom? - Digitale Overheid](https://www.digitaleoverheid.nl/achtergrondartikelen/de-europese-id-wallet-hoe-wat-en-waarom/)
 - [ID-wallets: wat staat overheidsorganisaties te… - Signicat](https://www.signicat.com/nl/blog/id-wallets-wat-staat-overheidsorganisaties-te-wachten)

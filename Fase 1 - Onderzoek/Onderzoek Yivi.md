@@ -76,13 +76,14 @@ De site is informatief en functioneel, zonder poespas. Er staan duidelijke uitle
 ---
 
 ## Bronnen
-- DigiD – Over DigiD  
-- DigiD – Inlogmethodes  
-- DigiD – Toegankelijkheid  
-- Yivi – Officiële website  
-- Tweakers – Waar staat Nederland in de zoektocht naar een digitaal identiteitsbewijs?  
-- Signicat Developer Docs – About Yivi  
-- Zynyo – Yivi  
-- App Store – Yivi  
-- Radboud Universiteit – Yivi overview (B. Jacobs)  
-- Ver.id Docs – Yivi overview  
+•	DigiD – Over DigiD 
+•	DigiD – Inlogmethodes
+•	DigiD – Toegankelijkheid
+•	Yivi – Officiële website
+•	Tweakers – Waar staat Nederland in de zoektocht naar een digitaal identiteitsbewijs?
+•	Signicat Developer Docs – About Yivi
+•	Zynyo – Yivi
+•	App Store – Yivi
+•	Radboud Universiteit – Yivi overview (B. Jacobs)
+•	Ver.id Docs – Yivi overview
+

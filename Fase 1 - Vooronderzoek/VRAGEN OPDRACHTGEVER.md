@@ -9,3 +9,4 @@ Vragen voor opdrachtgever:
 -	Hoe kunnen we contact met jullie opnemen? 
 -	Waar kunnen we concrete actuele (wet)regels vinden waaraan dit ontwerp moet voldoen?
 -	Welke functionaliteiten moet de wallet hebben, naast ondertekenen?
+-	Zijn er beperkingen vanuit de doelgroep waar wij extra aandacht aan zouden kunnen geven?

@@ -6,9 +6,12 @@ Jullie eindproduct moet een gedetailleerd en onderbouwd ontwerp zijn van deze ap
 Iedereen
 
 ## Aandachtspunten
-- Toegankelijk voor zo veel mogelijk mensen, in overeenstemming met
-- Mensgericht en inclusief ontwerpproces [Europese Accessibility Act7](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882)
+- Toegankelijk voor zo veel mogelijk mensen en bedrijven, in overeenstemming met [Europese Accessibility Act7](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882)
+- Mensgericht en inclusief ontwerpproces
 - Privacy moet goed gewaarborgd worden
+- Gebruikers moeten volledige controle hebben over wat ze willen delen, en dit bij kunnen houden
+- Gebruikers moeten hun identiteit kunnen bewijzen, hun documenten op kunne slaan en delen, en makkelijk dingen ondertekenen
+- In overeenstemming met [Architecture and reference framework](https://eu-digital-identity-wallet.github.io/eudi-doc-architecture-and-reference-framework/1.6.0/)
 
 ## Opdrachtgever
 - Lectoraat Media Design
@@ -56,17 +59,32 @@ Iedereen
 -	Vergunningen
 -	Certificaten
 -	Rijbewijs
+-   Contracten
 
 ### Andere info
 -	Financiële info
 -	Gezondheidsgegevens
+-   Zorg verzekering
 -	Studiebewijs
 -	Kamer van koophandel
 -	Autogegevens
--	Toegangspassen
+-	Toegangspassen / reisdocumenten
+-   Simkaart in ander EU land kopen
+
 
 ## Stakeholders
 -	Burgers (gebruikers)
+    - Makkelijkere toegang tot data door heel de EU
+    - Persoonlijke data wordt beschermt
+    - Alleen benodigde data word gedeeld
+-	Dienstverlening (bedrijven die de gegevens controleren zoals banken, gemeentes etc)
+    - Goede cybersecurity
+    - Betere toegang tot services
+    - Betere bestendigheid tegen fraude
+-   Commerciele bedrijven (bedrijven die gegevens nodig hebben voor bijv. aankopen)
+    - Makkelijker en goedkoper om gegevens te controleren
+    - Makkelijker om business 100% online to doen (bijv. verkoop van alchohol)
+    - Neutrale manier van gegevens controleren (geen 3rd party bedrijven die dit moeten doen)
 -	Overheid (regelgeving en uitgifte)
 -	Zorginstellingen
 -	EU Member States
@@ -76,9 +94,35 @@ Iedereen
 -	Waarborgers (voor toezicht)
 -	Ontwikkelaars (software ontwikkelen)
 -	Uitgevers van documenten (diploma’s)
--	Dienstverlening (bedrijven die de gegevens controleren zoals banken, gemeentes etc)
 
-## Mogelijke functies
+## Mogelijke functies (uit voorbeelden)
+- Verschillende documenten per type geordend 
+- Pin om in app te komen
+- Lijst van informatie over gebruiker
+- Kiezen wat voor informatie je wil delen (informatie voorgesteld, maar je kan het uitzetten > waarschuwing dat dit voor problemen kan zorgen)
+- QR code/nfc om te laten scannen 
+- Transactie geschiedenis
+- Makkelijke manier om email te sturen naar service om te stoppen met het gebruik van data
+- Transactie rapottern functie > makkelijke manier om email te sturen naar overheid
+
+- eSignature: Manier om toestemming te geven
+    - Voor burger: Makkelijk dingen ondertekenen zonder gebruik van papier
+    - Voor bedrijven: Sneller en goedkoper door gestroomlijnd process
+- eTimestamp: Bewijs dat data op een specifieke tijd bestond
+    - Voor burger: Geeft bewijs dat je iets gekocht hebt
+    - Voor bedrijven: Maakt het bijhouden van documenten makkelijker en zorgt voor grotere verantwoordelijkheid
+- eID: Manier om identiteit digitaal te bewijzen
+    - Voor burger: Maakt het makkelijker om officele processen te doorgaan zoals bankrekening openen in ander land
+    - Voor bedrijven: Zorgt voor meer klanten, bespaard kosten en tijd, en bouwt beter vertrouwen in internationale transacties
+- Qualified web authentication certificate: Zorgt ervoor dat websites betrouwbaar zijn
+    - Voor burger: Zien dat een website veilig is
+    - Voor bedrijven: Bouwt vertrouwen met de klant, en verkomt phishing in de naam van het bedrijf
+- eSeal: Garandeerd waar het document vandaan komt en de echtheid ervan
+    - Voor burger: Aankoop van tweedehands documenten (bijv. tickets) is betrouwbaarder
+    - Voor bedrijven: Kosten en tijd word bespaart, en bouwt vertrouwen
+- Electronic registered delivery service: Beschermt documenten van verloren, gestolen, beschadigd of veranderd worden
+    - Voor burger: Zorgt ervoor dat documenten heel aankomen
+    - Voor bedrijven: Tijd en kosten worden bespaard en bijhouden van documenten word makkelijker
 
 ## <a name="digitalWallet">Digital Wallet</a>
 - Een digital wallet zorgt dat je je persoonlijke gegevens veilig kan opslaan en delen
@@ -92,7 +136,7 @@ Iedereen
 - Elk EU land gaat een eigen ID-wallet hebben
 - Sommige data in EU landen is ongeveer hetzelfde maar met een andere naam, dat moet allemaal op 1 lijn getrokken worden
 - De wallets gaan constant veel aanpassingen nodig hebben (manier van koppelen, gewenste data etc.)
-
+- Verifieren of het device tot de vermeende persoon behoord
 
 # Bronnen:
 - Ondertekenen, A. O. D. (z.d.). Alles over Digitaal Ondertekenen. Digitaal Ondertekenen. https://digitaal-ondertekenen.nl/blog/wat-is-de-european-digital-identity-wallet-en-waarom-is-het-belangrijk

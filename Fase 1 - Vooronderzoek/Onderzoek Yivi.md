@@ -1,7 +1,7 @@
 # Yivi – Onderzoek
 
 ## Wat is Yivi?
-Yivi (spreek uit: *“Your digital life”*) is een privacyvriendelijke digitale identiteit-app (*ID-wallet*) ontwikkeld in Nederland.  
+Yivi is een privacyvriendelijke digitale identiteit-app (*ID-wallet*) ontwikkeld in Nederland.  
 De app maakt gebruik van het principe van **Self-Sovereign Identity**: je beheert zelf je persoonlijke gegevens op je telefoon en deelt daaruit alleen wat nodig is.
 
 ### Belangrijke kenmerken

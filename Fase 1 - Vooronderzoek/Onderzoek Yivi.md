@@ -61,17 +61,28 @@ De site is informatief en functioneel, zonder poespas. Er staan duidelijke uitle
 - Afhankelijk van een smartphone en externe bronnen voor attribuutbeheer  
 
 ---
+# Bedrijven en organisaties die Yivi ondersteunen
 
-## Samenvatting vergelijking Yivi en DigiD
+## Gemeenten
+- Gemeente Amsterdam  
+- Gemeente Nijmegen  
 
-| Aspect             | DigiD-observatie                                                | Yivi-observatie                                                      |
-|--------------------|----------------------------------------------------------------|----------------------------------------------------------------------|
-| **Wat is het?**    | Mobiele app voor inloggen                                       | ID-wallet met selectief delen van gegevens                           |
-| **Toegankelijkheid** | Hulpbehoefte bij installatie, basisopties                      | Weinig toegankelijkheidsfuncties, QR-afhankelijk                     |
-| **Gebruiksvriendelijkheid** | Na activatie eenvoudig, PIN-login                          | PIN-login, controle over data, maar beperkte adoptie                  |
-| **Registratieproces** | Complex, inclusief postbrief                                   | Simpel via app en DigiD, extra stappen voor gegevens toevoegen       |
-| **Privacy & controle** | Beschermt persoonsgegevens                                    | Sterk privacygericht, open-source, self-sovereign                     |
-| **Feedback**        | -                                                              | Gebruikers missen Face ID en bredere inzetbaarheid                   |
+## Zorgsoftware
+- ChipSoft  
+
+## Digitale dienstverlening
+- Kamer van Koophandel (KvK)  
+
+## Accountancy en KYC-tools
+- Ver.iD – in combinatie met ComplianceWise (Grub e-Verificatie)  
+
+## Onderzoek & Infrastructuur
+- Radboud Universiteit (authenticatie en digitale ondertekening)  
+- NLnet (identity-based encryptie via NGI-PET)  
+- SURF (uitgifte en controle attributen via SURFconext)  
+- Nuts (zorginfrastructuur; Helder-portal)  
+- Alliander (authenticatie en ondertekening bij smart homes)  
+- Open Universiteit (softwareontwikkeling)  
 
 ---
 

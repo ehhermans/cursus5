@@ -26,6 +26,8 @@ Iedereen
 - Open-source en gratis voor eindgebruikers, met een focus op privacy by design
 - Ontwikkeld en beheerd door de Privacy by Design Foundation en partners
 - Gebruikt cryptografische technieken om enkel noodzakelijke gegevens te delen, zonder volledige persoonsgegevens prijs te geven
+- Visie: Zelf de baas over jouw gegevens Jouw digitale identiteit in één app
+- Missie: Internetgebruikers wordt te pas en te onpas gevraagd om privacygevoelige gegevens te delen en vaak delen ze meer informatie dan nodig is. Dat kan en moet anders. Wij geloven dat de ontwikkeling van eenvoudige, privacyvriendelijke en veilig te gebruiken oplossingen voor online identificatie bijdraagt aan de bescherming van privacy en identiteit en een optimaal gebruik van het internet. En daarmee dus aan onze missie voor een kansrijk en zorgeloos digitaal bestaan voor iedereen.
 
 ### DigiD
 - https://www.digid.nl

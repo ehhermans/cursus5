@@ -61,22 +61,22 @@ De site is informatief en functioneel, zonder poespas. Er staan duidelijke uitle
 - Afhankelijk van een smartphone en externe bronnen voor attribuutbeheer  
 
 ---
-# Bedrijven en organisaties die Yivi ondersteunen
+## Bedrijven en organisaties die Yivi ondersteunen
 
-## Gemeenten
+### Gemeenten
 - Gemeente Amsterdam  
 - Gemeente Nijmegen  
 
-## Zorgsoftware
+### Zorgsoftware
 - ChipSoft  
 
-## Digitale dienstverlening
+### Digitale dienstverlening
 - Kamer van Koophandel (KvK)  
 
-## Accountancy en KYC-tools
+### Accountancy en KYC-tools
 - Ver.iD – in combinatie met ComplianceWise (Grub e-Verificatie)  
 
-## Onderzoek & Infrastructuur
+### Onderzoek & Infrastructuur
 - Radboud Universiteit (authenticatie en digitale ondertekening)  
 - NLnet (identity-based encryptie via NGI-PET)  
 - SURF (uitgifte en controle attributen via SURFconext)  

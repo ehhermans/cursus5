@@ -1,5 +1,5 @@
 ## Opdracht
-Ontwerp een aantrekkelijke en gebruiksvriendelijke [digital wallet](#digitalWallet) met de nadruk op het ondertekenen van documenten en houdt rekening met toegankelijkheid.
+Ontwerp een aantrekkelijke en gebruiksvriendelijke [digital wallet](#digitalwallet) met de nadruk op het ondertekenen van documenten en houdt rekening met toegankelijkheid.
 ## Eindresultaat
 Jullie eindproduct moet een gedetailleerd en onderbouwd ontwerp zijn van deze applicatie waarbij er verschillende prototypen worden opgeleverd.
 ## Doelgroep
@@ -8,7 +8,7 @@ Iedereen
 ## Aandachtspunten
 - Toegankelijk voor zo veel mogelijk mensen en bedrijven, in overeenstemming met [Europese Accessibility Act7](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882)
 - Mensgericht en [inclusief](#beperkingen) ontwerpproces
-- [Privacy](#internetVeiligheid) moet goed gewaarborgd worden
+- [Privacy](#internetveiligheid) moet goed gewaarborgd worden
 - Gebruikers moeten volledige controle hebben over wat ze willen delen, en dit bij kunnen houden
 - Gebruikers moeten hun identiteit kunnen bewijzen, hun documenten op kunne slaan en delen, en makkelijk dingen ondertekenen
 - In overeenstemming met [Architecture and reference framework](https://eu-digital-identity-wallet.github.io/eudi-doc-architecture-and-reference-framework/1.6.0/)
@@ -21,7 +21,7 @@ Iedereen
 ## Vergelijkbare producten
 ### Yivi
 - https://yivi.app
-- [Onderzoek yivi](https://github.com/ehhermans/cursus5/blob/main/Fase%201%20-%20vooronderzoek/Onderzoek%20Yivi.md)
+- [Onderzoek yivi](https://github.com/ehhermans/cursus5/blob/main/Fase%201%20-%20Vooronderzoek/Onderzoek%20Yivi.md)
 - Risicovol vanwege de gebruikte techbedrijven en toezicht.
 - Open-source en gratis voor eindgebruikers, met een focus op privacy by design
 - Ontwikkeld en beheerd door de Privacy by Design Foundation en partners
@@ -31,7 +31,7 @@ Iedereen
 
 ### DigiD
 - https://www.digid.nl
-- [Onderzoek DigiD](https://github.com/ehhermans/cursus5/blob/main/Fase%201%20-%20vooronderzoek/Onderzoek%20naar%20DigiD.md)
+- [Onderzoek DigiD](https://github.com/ehhermans/cursus5/blob/main/Fase%201%20-%20Vooronderzoek/Onderzoek%20naar%20DigiD.md)
 - DigiD is een digitale app voor de mobiele telefoon
 ↪ Mensen die niet digitaal onderlegd zijn in het gebruik van een computer of smartphone — of daarbij, helemaal geen smartphone hebben — zullen moeite hebben met het gebruiken van de app.
 - De app is ontworpen om door zoveel mogelijk Nederlandse burgers gebruikt te worden
@@ -126,7 +126,7 @@ Iedereen
     - Voor burger: Zorgt ervoor dat documenten heel aankomen
     - Voor bedrijven: Tijd en kosten worden bespaard en bijhouden van documenten word makkelijker
 
-## <a name="digitalWallet">Digital Wallet</a>
+## <a name="digitalwallet">Digital Wallet</a>
 - Een digital wallet zorgt dat je je persoonlijke gegevens veilig kan opslaan en delen
 - Met een digital wallet kan je bijvoorbeeld in alle EU-landen veilig inloggen en makkelijk iets over je zelf aantonen zonder dat je meer gegevens hoeft te delen dan nodig is
 - De ID wallet moet aangeboden worden door de overheid ipv bedrijven om privacy beter te waarborgen, en zodat persoonlijke gegevens niet in de handen van bedrijven liggen
@@ -140,7 +140,7 @@ Iedereen
 - De wallets gaan constant veel aanpassingen nodig hebben (manier van koppelen, gewenste data etc.)
 - Verifieren of het device tot de vermeende persoon behoord
 
-## <a name="internetVeiligheid">Internet veiligheid</a>
+## <a name="internetveiligheid">Internet veiligheid</a>
 ### Internetbankieren
 
 Elke bank-app maakt gebruik van een verificatiecode. Er zijn hiervoor nog geen gevallen van fraude bekend. Het wordt aangeraden om apps alleen via de **officiële appstores** te downloaden. 

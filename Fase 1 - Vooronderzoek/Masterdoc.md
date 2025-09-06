@@ -7,7 +7,7 @@ Iedereen
 
 ## Aandachtspunten
 - Toegankelijk voor zo veel mogelijk mensen en bedrijven, in overeenstemming met [Europese Accessibility Act7](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882)
-- Mensgericht en inclusief ontwerpproces
+- Mensgericht en [inclusief](#beperkingen) ontwerpproces
 - [Privacy](#internetVeiligheid) moet goed gewaarborgd worden
 - Gebruikers moeten volledige controle hebben over wat ze willen delen, en dit bij kunnen houden
 - Gebruikers moeten hun identiteit kunnen bewijzen, hun documenten op kunne slaan en delen, en makkelijk dingen ondertekenen
@@ -218,6 +218,32 @@ Wat zijn cookies?
 - De echte gegevens over jou staan in de database van de website.
 - Cookies helpen websites om je gedrag te volgen en hun aanbod aan te passen.
 
+## <a name="beperkingen"> Belangrijke beperkingen om mee te nemen </a>
+### Lichamelijke beperkingen
+<ul>
+  <li>Blind (aan één of beide ogen)</li>
+  <li>Doof (aan één of beide oren) </li>
+  <li>Kleurenblind</li>
+  <li>Congenitale aplasie (ontbreken van ledematen)</li>
+  <li>Amputatie</li>
+</ul>
+
+### Verstandelijke beperkingen
+<ul>
+  <li>Syndroom van Down</li>
+  <li>Fragiele X-Syndroom</li>
+  <li>Smith-Magnis Syndroom</li>
+</ul>
+
+### Cognitieve beperkingen
+<ul>
+  <li>Alzheimer</li>
+  <li>Analfabeet/Laaggeletterdheid</li>
+  <li>Autisme</li>
+  <li>Problemen met lezen</li>
+  <li>Problemen met schrijven</li>
+  <li>Communicatie, voeren van gesprekken en taalgebruik</li>
+</ul>
 
 # Bronnen:
 - Ondertekenen, A. O. D. (z.d.). Alles over Digitaal Ondertekenen. Digitaal Ondertekenen. https://digitaal-ondertekenen.nl/blog/wat-is-de-european-digital-identity-wallet-en-waarom-is-het-belangrijk
@@ -262,3 +288,5 @@ Digitale Overheid. (2025, 28 augustus).
 - [Veilig Internetten - App toegang tot foto's](https://veiliginternetten.nl/wat-moet-ik-doen-als-een-app-toegang-wil-tot-mijn-fotos/)
 - [Consumentenbond - Veilig Internetten](https://www.consumentenbond.nl/veilig-internetten)
 - [Surfshark - Apps die je tracken](https://surfshark.com/apps-that-track-you#:~:text=These%20include%20navigation%20app%20InRoute,data%20app%20from%20their%20category)
+- https://handicap.nl/wat-is-een-handicap-en-welke-zijn-er-dan-allemaal/
+- https://www.prinsenstichting.nl/orienteren/niveaus-en-syndromen/

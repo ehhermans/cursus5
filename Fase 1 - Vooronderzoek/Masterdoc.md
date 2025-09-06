@@ -21,7 +21,7 @@ Iedereen
 ## Vergelijkbare producten
 ### Yivi
 - https://yivi.app
-- [Onderzoek yivi](https://github.com/ehhermans/cursus5/blob/main/Fase%201%20-%20Onderzoek/Onderzoek%20Yivi.md)
+- [Onderzoek yivi](https://github.com/ehhermans/cursus5/blob/main/Fase%201%20-%20vooronderzoek/Onderzoek%20Yivi.md)
 - Risicovol vanwege de gebruikte techbedrijven en toezicht.
 - Open-source en gratis voor eindgebruikers, met een focus op privacy by design
 - Ontwikkeld en beheerd door de Privacy by Design Foundation en partners
@@ -31,7 +31,7 @@ Iedereen
 
 ### DigiD
 - https://www.digid.nl
-- [Onderzoek DigiD](https://github.com/ehhermans/cursus5/blob/main/Fase%201%20-%20Onderzoek/Onderzoek%20naar%20DigiD.md)
+- [Onderzoek DigiD](https://github.com/ehhermans/cursus5/blob/main/Fase%201%20-%20vooronderzoek/Onderzoek%20naar%20DigiD.md)
 - DigiD is een digitale app voor de mobiele telefoon
 ↪ Mensen die niet digitaal onderlegd zijn in het gebruik van een computer of smartphone — of daarbij, helemaal geen smartphone hebben — zullen moeite hebben met het gebruiken van de app.
 - De app is ontworpen om door zoveel mogelijk Nederlandse burgers gebruikt te worden
@@ -140,7 +140,7 @@ Iedereen
 - De wallets gaan constant veel aanpassingen nodig hebben (manier van koppelen, gewenste data etc.)
 - Verifieren of het device tot de vermeende persoon behoord
 
-## <a name="internetVeiligheid"> Internet veiligheid</a>
+## <a name="internetVeiligheid">Internet veiligheid</a>
 ### Internetbankieren
 
 Elke bank-app maakt gebruik van een verificatiecode. Er zijn hiervoor nog geen gevallen van fraude bekend. Het wordt aangeraden om apps alleen via de **officiële appstores** te downloaden. 

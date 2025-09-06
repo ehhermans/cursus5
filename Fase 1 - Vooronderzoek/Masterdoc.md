@@ -125,8 +125,38 @@ Iedereen
 - Electronic registered delivery service: Beschermt documenten van verloren, gestolen, beschadigd of veranderd worden
     - Voor burger: Zorgt ervoor dat documenten heel aankomen
     - Voor bedrijven: Tijd en kosten worden bespaard en bijhouden van documenten word makkelijker
+ 
+## Checklist voor implementatie
+### Architectuur & standaarden
+- Bouw op de Europese referentiekaders en standaarden voor verifiable credentials.
+
+### Verificatie
+- Accepteer cryptografisch ondertekende credentials en voer revocation-checks uit.
+
+### Data-minimalisatie
+- Vraag alleen noodzakelijke attributen en toon altijd waarom iets gevraagd wordt.
+
+### UX / Onboarding
+- Heldere flow: downloaden → wallet beveiligen (PIN/biometrie) → koppelen eID → ontvangen credentials.  
+- Duidelijke toestemming: wie vraagt wat en waarom, met een eenvoudige bevestigingsstap.
+
+### Transacties
+- Ondersteun QR-presentatie en scanning; toon welke attributen gedeeld worden voordat de gebruiker bevestigt.
+
+### Logging & compliance
+- Log op privacyvriendelijke wijze (geen onnodige persoonsgegevens).  
+- Bied gebruikers inzage in hun transactielog.
+
+### Voorbereiding op certificatie
+- Zorg dat je systeem audit-klaar is: security-audits, conformance tests en governance-documentatie.
+
+---
+
+
 
 ## <a name="digitalwallet">Digital Wallet</a>
+Een EU Digital Identity Wallet is een app (meestal aangeboden door lidstaten) waarmee mensen digitale documenten veilig bewaren en gecontroleerd delen. Deze wallets maken identificatie, bewijslevering en elektronische handtekeningen makkelijker, veiliger en meer privacy-vriendelijk dan papieren documenten of centrale datastores.
+
 - Een digital wallet zorgt dat je je persoonlijke gegevens veilig kan opslaan en delen
 - Met een digital wallet kan je bijvoorbeeld in alle EU-landen veilig inloggen en makkelijk iets over je zelf aantonen zonder dat je meer gegevens hoeft te delen dan nodig is
 - De ID wallet moet aangeboden worden door de overheid ipv bedrijven om privacy beter te waarborgen, en zodat persoonlijke gegevens niet in de handen van bedrijven liggen
@@ -134,11 +164,59 @@ Iedereen
 - Er kan vanuit gegaan worden door diensten dat de informatie in de wallet klopt, waardoor er minder gecontroleerd moet worden
 - De ID wallet moet idealieter open source zijn zodat gebruikers makkelijk inzicht kunnen krijgen in hoe het werkt
 
+### Belangrijke begrippen
+- **Digital documents / verifiable credentials**  
+  Digitale bewijzen zoals een rijbewijs, diploma of ticket. Ze zijn cryptografisch ondertekend zodat ontvangers zeker weten dat ze echt en ongewijzigd zijn.
+
+- **Issuer (uitgever)**  
+  De organisatie die het digitale bewijs uitgeeft (bijvoorbeeld gemeente, universiteit of werkgever).
+
+- **Holder (houder / gebruiker)**  
+  De persoon die het bewijs in zijn/haar wallet bewaart en zelf beslist met wie het gedeeld wordt.
+
+- **Verifier / Service provider**  
+  De partij die om een bewijs vraagt en controleert of het geldig is (bijvoorbeeld een verhuurder, winkel of overheidsdienst).
+
+- **Selective disclosure / minimale gegevensdeling**  
+  Mogelijkheid om alleen die gegevens te delen die echt nodig zijn (bijv. “ouder dan 18” in plaats van volledige geboortedatum).
+
+- **Revocation / intrekking**  
+  Mechanisme waarmee een uitgegeven bewijs ongeldig kan worden gemaakt (bijv. bij verlopen documenten).
+
+### Doel
+- Gebruiker heeft controle over zijn data en deelt alleen wat nodig is.  
+- Biedt veilige en betrouwbare identificatie en verificatie.  
+- Zorgt voor interoperabiliteit tussen diensten en lidstaten, zodat één standaard overal werkt.  
+- Maakt rechtsgeldige digitale handelingen mogelijk (bijv. elektronische handtekening).
+
+### Typische use-cases
+- Inloggen en identificeren bij overheidsdiensten en banken.  
+- Leeftijdscontrole (online en in winkels).  
+- Tonen van diploma’s en certificaten aan werkgevers of onderwijsinstellingen.  
+- Reis- en gezondheidsdocumenten (boarding passes, vaccinatiebewijzen).  
+- Ondertekenen van contracten en KYC-processen (know-your-customer).
+
+### Voordelen
+- **Voor gebruikers:** minder gedoe met formulieren, betere privacy en meer controle.  
+- **Voor bedrijven:** snellere onboarding, lagere fraude en minder opslagverplichtingen.  
+- **Voor overheden:** efficiëntere dienstverlening en veilige, interoperabele identiteiten.
+
 ### Mogelijke uitdagingen 
 - Elk EU land gaat een eigen ID-wallet hebben
 - Sommige data in EU landen is ongeveer hetzelfde maar met een andere naam, dat moet allemaal op 1 lijn getrokken worden
 - De wallets gaan constant veel aanpassingen nodig hebben (manier van koppelen, gewenste data etc.)
 - Verifieren of het device tot de vermeende persoon behoord
+
+### Security & privacy
+- Gebruik sterke cryptografie om documenten te ondertekenen en te verifiëren.  
+- Ontwerp privacy-first: vraag alleen noodzakelijke data en toon duidelijk wat wordt gedeeld.  
+- Voorzie in revocation checks zodat ingetrokken of verlopen documenten geweigerd worden. 
+- Bied een privacy-dashboard waarin gebruikers transacties en toestemmingen kunnen beheren.
+
+### Pilots en regelgeving
+Lidstaten en consortia voeren grootschalige pilots uit om flows en interoperabiliteit te testen. Er is een Europees regelgevend kader dat technische vereisten, certificatie en governance vastlegt. Ontwerpen moet dus rekening houden met toekomstige certificatieverplichtingen en standaarden.
+
+
 
 ## <a name="internetveiligheid">Internet veiligheid</a>
 ### Internetbankieren

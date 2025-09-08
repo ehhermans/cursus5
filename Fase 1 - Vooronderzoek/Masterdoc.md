@@ -1,22 +1,38 @@
 ## Opdracht
-Ontwerp een aantrekkelijke en gebruiksvriendelijke [digital wallet](#digitalwallet) met de nadruk op het ondertekenen van documenten en houdt rekening met toegankelijkheid.
+The next generation internet: Ontwerp een aantrekkelijke en gebruiksvriendelijke [digital wallet](#digitalwallet) met de nadruk op het ondertekenen van documenten en houdt rekening met toegankelijkheid.
+## Waarom
+Big tech heeft veel invloed op ons dagelijksleven, ze hebben veel macht en zijn verweven in de samenleving. Digitaliteit heeft sowieso veel invloed op het dagelijksleven, dit betekend dat het voor veel mensen in eens nog lastiger is om mee te komen, het is belangrijk om een manier te vinden om hen niet buiten te sluiten. Om deze digitaliteit beter te maken kunnen we een aantal dingen doen:
+- Publieke waarde (wat ons aangaat als individu en als samenleving)
+- Democratie in stand houden
+- Privacy bewaren
+- Distruberen
+- Regeneratief
+- Commiteren aan een 'do not harm' gedragscode
+- Het systeem fundementeel goed inrichten
+
 ## Eindresultaat
-Jullie eindproduct moet een gedetailleerd en onderbouwd ontwerp zijn van deze applicatie waarbij er verschillende prototypen worden opgeleverd.
+Jullie eindproduct moet een gedetailleerd en onderbouwd ontwerp zijn van deze applicatie waarbij er verschillende prototypen worden opgeleverd. De prototypes moeten testresultaten op kunnen leveren. Prototypes moeten hifi met mirco interacties zijn
+
 ## Doelgroep
 Iedereen
 
 ## Aandachtspunten
 - Toegankelijk voor zo veel mogelijk mensen en bedrijven, in overeenstemming met [Europese Accessibility Act7](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882)
-- Mensgericht en [inclusief](#beperkingen) ontwerpproces
+- Mensgericht en [inclusief](#beperkingen) ontwerpproces, mismatches identificeren (hierbij kijken naar het analoge process)
 - [Privacy](#internetveiligheid) moet goed gewaarborgd worden
 - Gebruikers moeten volledige controle hebben over wat ze willen delen, en dit bij kunnen houden
 - Gebruikers moeten hun identiteit kunnen bewijzen, hun documenten op kunne slaan en delen, en makkelijk dingen ondertekenen
 - In overeenstemming met [Architecture and reference framework](https://eu-digital-identity-wallet.github.io/eudi-doc-architecture-and-reference-framework/1.6.0/)
+- Veilig, laagdrempelig en meer controle als gebruiker
 
 ## Opdrachtgever
 - Lectoraat Media Design
 - Innovatie op UX gebied
 - https://www.han.nl/onderzoek/lectoraten/lectoraat-media-design/
+
+## Samenwerking (mogelijk)
+- Radboud CompSci
+- Radboud Rechten
 
 ## Vergelijkbare producten
 ### Yivi
@@ -195,6 +211,7 @@ Een EU Digital Identity Wallet is een app (meestal aangeboden door lidstaten) wa
 - Tonen van diploma’s en certificaten aan werkgevers of onderwijsinstellingen.  
 - Reis- en gezondheidsdocumenten (boarding passes, vaccinatiebewijzen).  
 - Ondertekenen van contracten en KYC-processen (know-your-customer).
+- Journalist die anoniem wil publiceren, maar wel met credentials
 
 ### Voordelen
 - **Voor gebruikers:** minder gedoe met formulieren, betere privacy en meer controle.  

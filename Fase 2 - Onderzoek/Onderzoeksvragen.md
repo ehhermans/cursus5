@@ -2,7 +2,7 @@
 Hoe kunnen we zorgen dat <ins>iedereen in Nederland die beschikt over digitale middelen</ins> <ins>controle</ins> heeft over welke <ins>persoonlijke gegevens</ins> zij <ins>delen</ins> bij <ins>digitaal ondertekenen</ins>, op een <ins>veilige</ins> en <ins>laagdrempelige</ins> manier?
 
 
-# Onderzoeksvragen ingedeeld in kopjes
+## Onderzoeksvragen ingedeeld in categorieën
 
 ### Gebruikersbehoefte
 - Wat is er nodig om een ervaring laagdrempelig te maken voor iedereen*?
@@ -34,7 +34,7 @@ Hoe kunnen we zorgen dat <ins>iedereen in Nederland die beschikt over digitale m
 ### Technologie & Ontwerp
 - Wat voor verschillende digitale middelen worden er gebruikt?
 - Hoe ziet digitaal ondertekenen er ideaal uit voor de gebruiker?
-- Welke ontwerpprincipes maken het digitaal ondertekenen gemakkelijker
+- Welke ontwerpprincipes maken het digitaal ondertekenen gemakkelijker?
 -	Waar lopen gebruikers van Yivi nu tegenaan?
 -	Welke persoonsgegevens zijn nodig tijdens het ondertekenen?
 -	Welke software ondersteunt al digitaal ondertekenen?

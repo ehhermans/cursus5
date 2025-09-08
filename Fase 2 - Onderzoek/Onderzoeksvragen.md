@@ -97,3 +97,10 @@ Hoe kunnen we zorgen dat <ins>iedereen in Nederland die beschikt over digitale m
 - Welke complicaties zijn te herkennen bij het het digitaal ondertekenen van documenten?
 - Als er mogelijkheid is om digitaal ondertekenen veiliger en laagdrempelig te maken, waarom is dit dan nog niet toegepast?
 - Welke complicaties komen er bij een digitaal analfabeet kijken?
+
+Nynke
+- Wie zijn de gebruikers? Individuele personen of ook bedrijven, namen, producten enz?
+- Hoe worden de gegevens geverifieerd?
+- Hoe kunnen we misbruik/fraude voorkomen?
+- Op welke digitale apparaten kun je dit inzetten? Mobieltjes? Of ook smartwatches enz?
+- Welke handelingen zijn er nu nodig om iets te ondertekenen en hoe vertaal je dat naar iets digitaals?

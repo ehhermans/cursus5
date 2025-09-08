@@ -20,6 +20,25 @@ Gebruiker:
 
 -	Welke controle over persoonsgegevens verwachten en wensen de gebruikers bij digitaal ondertekenen.
 
+-	Toegankelijkheid:
+-	Welke digitale middelen heeft de gebruiker nodig bij het digitaal ondertekeken.
+-	Hoe kunnen we het digitaal ondertekenen toegankelijk maken voor mensen die bijvoorbeeld laag geletterd zijn, geen Nederlands kunnen etc.
+
+Risico’s
+-	Wat zijn de risico’s omtrent persoonsgegevens in Nederland.
+
+
+Technologie:
+-	Welke ontwerpprincipes maken het digitaal ondertekenen gemakkelijker
+-	Waar lopen gebruikers van yivi nu tegenaan
+
+
+Regelgeving:
+-	Welke nederlandse en europese wetgeving moet het aan voldoen?
+
+
+
+
 ### Damiën
 -	Welke behoeften hebben Nederlandse burgers bij het digitaal ondertekenen van documenten?
 -	Welke persoonsgegevens zijn nodig tijdens het ondertekenen?
@@ -35,22 +54,5 @@ Gebruiker:
 - Welke complicaties zijn te herkennen bij het het digitaal ondertekenen van documenten?
 - Als er mogelijkheid is om digitaal ondertekenen veiliger en laagdrempelig te maken, waarom is dit dan nog niet toegepast?
 - Welke complicaties komen er bij een digitaal analfabeet kijken?
-
-
-Toegankelijkheid:
--	Welke digitale middelen heeft de gebruiker nodig bij het digitaal ondertekeken.
--	Hoe kunnen we het digitaal ondertekenen toegankelijk maken voor mensen die bijvoorbeeld laag geletterd zijn, geen Nederlands kunnen etc.
-
-Risico’s
--	Wat zijn de risico’s omtrent persoonsgegevens in Nederland.
-
-
-Technologie:
--	Welke ontwerpprincipes maken het digitaal ondertekenen gemakkelijker
--	Waar lopen gebruikers van yivi nu tegenaan
-
-
-Regelgeving:
--	Welke nederlandse en europese wetgeving moet het aan voldoen?
 
 

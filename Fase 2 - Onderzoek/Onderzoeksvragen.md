@@ -20,6 +20,22 @@ Gebruiker:
 
 -	Welke controle over persoonsgegevens verwachten en wensen de gebruikers bij digitaal ondertekenen.
 
+### Damiën
+-	Welke behoeften hebben Nederlandse burgers bij het digitaal ondertekenen van documenten?
+-	Welke persoonsgegevens zijn nodig tijdens het ondertekenen?
+-	Welke software ondersteunt al digitaal ondertekenen?
+
+### Maarten
+- Wat wordt verstaan onder digitale middelen?
+- Welke persoonlijke gegevens bezitten de gebruikers die ze wellicht zouden kunnen delen?
+- Wat maakt digitaal ondertekenen "veilig"?
+- Wat maakt digitaal ondertekenen "laagdrempelig"?
+- Wanneer heeft de gebruiker controle over zijn/haar gegevens?
+- Hoe worden tegenwoordig digitale documenten ondertekent?
+- Welke complicaties zijn te herkennen bij het het digitaal ondertekenen van documenten?
+- Als er mogelijkheid is om digitaal ondertekenen veiliger en laagdrempelig te maken, waarom is dit dan nog niet toegepast?
+- Welke complicaties komen er bij een digitaal analfabeet kijken?
+
 
 Toegankelijkheid:
 -	Welke digitale middelen heeft de gebruiker nodig bij het digitaal ondertekeken.
@@ -36,10 +52,5 @@ Technologie:
 
 Regelgeving:
 -	Welke nederlandse en europese wetgeving moet het aan voldoen?
-
-# Damien
--	Welke behoeften hebben Nederlandse burgers bij het digitaal ondertekenen van documenten?
--	Welke persoonsgegevens zijn nodig tijdens het ondertekenen?
--	Welke software ondersteunt al digitaal ondertekenen?
 
 

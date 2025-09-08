@@ -37,3 +37,9 @@ Technologie:
 Regelgeving:
 -	Welke nederlandse en europese wetgeving moet het aan voldoen?
 
+#Damien
+-	Welke behoeften hebben Nederlandse burgers bij het digitaal ondertekenen van documenten?
+-	Welke persoonsgegevens zijn nodig tijdens het ondertekenen?
+-	Welke software ondersteunt al digitaal ondertekenen?
+
+

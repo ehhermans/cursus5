@@ -1,0 +1,1 @@
+Hoe kunnen we zorgen dat iedereen in Nederland die beschikt over  digitale middelen controle heeft over welke persoonlijke gegevens zij delen bij digitaal ondertekenen, op een veilige en laagdrempelige manier?

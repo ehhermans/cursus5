@@ -12,7 +12,6 @@
 # Wat maakt digitaal ondertekenen "veilig"?
 ###	Hoe geven we de gebruiker een veilig gevoel?
 ###	Welke factoren beïnvloeden het vertrouwen van gebruikers?
-###	Als er mogelijkheid is om digitaal ondertekenen veiliger te maken, waarom is dit dan nog niet toegepast?
 ###	In hoeverre is er vertrouwen van mensen in digitale ondertekeningsdiensten?
 
 

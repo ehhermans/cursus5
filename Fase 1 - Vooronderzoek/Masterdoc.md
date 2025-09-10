@@ -1,5 +1,5 @@
 ## Opdracht
-The next generation internet: Ontwerp een aantrekkelijke en gebruiksvriendelijke [digital wallet](#digitalwallet) met de nadruk op het ondertekenen van documenten en houdt rekening met toegankelijkheid.
+The next generation internet: Ontwerp een aantrekkelijke en gebruiksvriendelijke [digital wallet](#digitalwallet) met de nadruk op het [ondertekenen](#ondertekenen) van documenten en houdt rekening met toegankelijkheid.
 ## Waarom
 Big tech heeft veel invloed op ons dagelijksleven, ze hebben veel macht en zijn verweven in de samenleving. Digitaliteit heeft sowieso veel invloed op het dagelijksleven, dit betekend dat het voor veel mensen in eens nog lastiger is om mee te komen, het is belangrijk om een manier te vinden om hen niet buiten te sluiten. Om deze digitaliteit beter te maken kunnen we een aantal dingen doen:
 - Publieke waarde (wat ons aangaat als individu en als samenleving)
@@ -21,7 +21,7 @@ Iedereen
 - Mensgericht en [inclusief](#beperkingen) ontwerpproces, mismatches identificeren (hierbij kijken naar het analoge process)
 - [Privacy](#internetveiligheid) moet goed gewaarborgd worden
 - Gebruikers moeten volledige controle hebben over wat ze willen delen, en dit bij kunnen houden
-- Gebruikers moeten hun identiteit kunnen bewijzen, hun documenten op kunne slaan en delen, en makkelijk dingen ondertekenen
+- Gebruikers moeten hun [identiteit](#identiteit) kunnen bewijzen, hun documenten op kunne slaan en delen, en makkelijk dingen ondertekenen
 - In overeenstemming met [Architecture and reference framework](https://eu-digital-identity-wallet.github.io/eudi-doc-architecture-and-reference-framework/1.6.0/)
 - Veilig, laagdrempelig en meer controle als gebruiker
 
@@ -339,6 +339,59 @@ Wat zijn cookies?
   <li>Problemen met schrijven</li>
   <li>Communicatie, voeren van gesprekken en taalgebruik</li>
 </ul>
+
+## <a name="identiteit">Identiteit</a>
+### Fysieke voorbeelden van ID
+- ID-kaart
+- Rijbewijs
+- Klantenkaart
+- Betaalpas
+- Studentenpas
+- Zorgpas
+- Accreditatiebadges (bijvoorbeeld festivalcrew)
+- Polsbandjes
+
+| **Voordelen**                                                                                                            |**Nadelen**                               |
+|----------------                                                                                                          |-----------                               |
+|Geen storing                                                                                                              |Kan verloren raken                        |
+|Klein formaat &mdash; makkelijk mee in hoesje/pasjeshouder                                                                |Om de zoveel jaar vernieuwen              |
+|Info, zoals hulpnummer en/of website|Ontwerpen kunnen toegankelijkheid limiteren (kleurenblind, kleine letters, etc.)     |Beschadiging (wear and tear)              |
+|NFC-chip geeft functionaliteit                                                                                            |Gestolen &rarr;	Fraudulente overdrachten  |
+| *Subjectief* ✨Interessante ontwerpen✨
+
+
+### Digitale voorbeelden van ID
+- Apple, Samsung, Google Wallet
+- Online bankieren (app)
+- Bonus-pas bij een supermarkt
+- Authenticator
+- DigiD
+- Sportabonnement (vaak via QR-code)
+
+
+| **Voordelen**                                                        |**Nadelen**                                                       |
+|----------------                                                      |-----------                                                       |
+|Makkelijk, op de telefoon                                             |Storingen kunnen dienst onbruikbaar maken                         |
+|Niet kwijt te raken (tenzij je je inloggegevens vergeet)              |Diensten kunnen achter inlogscherm verborgen zitten               |
+|Neemt geen fysieke ruimte in                                          |Mogelijk alleen te gebruiken met internetverbinding               |
+|Via updates aanpasbaar                                                |Abonnementen  &mdash; Toegang tot gegevens tijdelijk beschikbaar  |
+|Inloggen voor online diensten                                         |Database-lekken
+|NFC-functionaliteit                                                   |Je data kan verkocht worden
+|Toegankelijkheid beter in handen                                      |Sluit digitale analfabeten sneller uit
+
+## <a name="ondertekenen">Ondertekenen</a>
+Manieren van digitaal te ondertekenen:
+
+1.	Face id
+2.	Vingerafdruk
+3.	Code
+4.	Digitale handtekening zetten
+5.	Digitale handtekening plakken
+
+Naast dat er vele manieren zijn zijn er ook verschillende degradaties in betrouwbaarheid, zoals:
+-	Gewone elektronische handtekening, moet je denken aan een ingescande handtekening. Deze biedt geen garantie op authenciteit en intregiteit.
+-	Geavanceerde elektronische handtekening, het is een handtekening die uniek is en gekoppeld is aan een de ondertekenaar.
+-	Gekwalificeerde elektronische handtekening, de meest veilige vorm, waarbij je een certificaat krijgt waardoor jij als enige deze handtekening kan gebruiken. Deze vorm is de meest veilige vorm.
 
 # Bronnen:
 - Ondertekenen, A. O. D. (z.d.). Alles over Digitaal Ondertekenen. Digitaal Ondertekenen. https://digitaal-ondertekenen.nl/blog/wat-is-de-european-digital-identity-wallet-en-waarom-is-het-belangrijk

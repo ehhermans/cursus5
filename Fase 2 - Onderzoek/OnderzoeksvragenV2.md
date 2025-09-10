@@ -45,7 +45,7 @@ Interviews: deze methode is handig om te gebruiken om overzicht te krijgen over 
 ###	Welke factoren beïnvloeden het vertrouwen van gebruikers?
 ###	In hoeverre is er vertrouwen van mensen in digitale ondertekeningsdiensten?
 
-Methode: trust-mapping, survey, interviews.
+Methode: survey, interviews.
 
 Trust-mapping: maakt het visueel en bespreekbaar. Je kan diepere kennis ophalen en doordat je zelf de vertrouwensmomenten blootlegt. Hierdoor kunnen wij achterhalen waar de pijn punten liggen.
 
@@ -54,8 +54,6 @@ Survey: Veel data, makkelijk te vergelijken, snel, breed publiek. Hierdoor wille
 Interviews: Met de interviews kunnen we makkelijker achterhalen wat de zorgen zijn of juist niet. 
 
 Techniek, gebruiker, context.
-
-Trust-mapping: 
 
 Survey: Deze methode zorgt dat we veel data kunnen ophalen over hoe men er nu tegenaan kijkt over het digitaliseren van hun persoons gegevens. Dit is relevant omdat we dan kunnen inspelen op de behoeften die hieruit voortkomen. Dit geeft een overzicht in wat de gebruiker belangrijk vind. 
 
@@ -143,9 +141,9 @@ Gebruiker
 
 Interview: Hiermee krijgen we inspiratie zowel als data hoe we het digitaal ondertekenen kunnen verbeteren en waarom. Daarnaast is het relevant omdat dit ons inzicht geeft over de toepassingscontext van de gebruiker. Het zorgt voor een overzicht van waar we nu staan en waar de behoeften en wensen van de gebruiker liggen. 
 
-Co-design:
+Co-creation: Dit geeft ons vooral inspiratie op hetgeen dat de gebruiker graag zou willen zien/ervaren. Dit geeft ons inzicht in hoe we het ontwerp het beste kunnen laten aansluiten op de gebruiker. Dit geeft ons zekerheid in hoe het ontwerp gebruikt kan worden/ervaren kan worden. 
 
-Usability testing:
+Usability testing: Dit geeft ons vooral praktische informatie (data), hoe de gebruiker omgaat met het ondertekenen en wat de behoeften zijn. Dit is relevant omdat we dan ons ontwerp op die behoeften kunnen aanpassen/inrichten. Dit geeft zekerheid in hoe het ontwerp gebruikt kan/gaat worden en waar we nog op moeten inspelen. 
 
 
 # Hoe kunnen we de ervaring van het onderteken process toegankelijk maken?
@@ -162,9 +160,9 @@ Literature study: hierdoor kunnen wij achterhalen welke beperkingen wij rekening
 
 Gebruiker, context
 
-Interview:
+Interview: Hierdoor krijgen we inspiratie en data om te zien hoe we het ondertekenen toegankelijk kunnen maken voor zoveel mogelijk mensen. Denk aan mensen met een beperking. Dit is relevant zodat we een oplossing kunnen bedenken voor een zo breed mogelijke doelgroep waarbij niemand wordt uitgesloten. Dit geeft overzicht in hoe toegankelijk we de wallet kunnen maken. 
 
-Literature study:
+Literature study: Dit geeft ons zowel inspiratie (wat is al gedaan/bekend en wat niet) en het geeft ons informatie over hoe we bijvoorbeeld de wallet ook toegankelijk kunnen maken voor laag geletterde mensen en hoe we dat omzetten naar een digitale oplossing. Dit geeft ons grondige informatie (vooronderzoek) die we kunnen gebruiken voor de interviews. Daarnaast geeft het ons een overzicht van de mogelijke oplossingen. 
 
 
 

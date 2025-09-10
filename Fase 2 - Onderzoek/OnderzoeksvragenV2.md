@@ -27,14 +27,13 @@ Best good and bad practice: deze methode is prettig omdat we zo inzicht krijgen 
 ###	Kan er te veel controle zijn?
 ###	Wanneer heeft de gebruiker controle over zijn/haar gegevens?
 
-Methode: literature study, interviews.
+## Methode - literature study, interviews.
 
 Literature study: met de literature study willen wij erachterkomen wat voor controle er nodig is.
 
 Interview: door te interviewen willen wij erachter komen wat de gebruikers qua controle verwachten en wat ze fijn zouden vinden.
 
-Gebruiker, context.
-
+## Afweging
 Literature study: deze methode is gericht op het verzamelen van data maar ook voor het opdoen van inspiratie. Welke vormen van controle hebben over de gegevens zijn er en in hoeverre is dat haalbaar. Dit is ook meer gericht op grondigheid waarbij we kijken naar wat er al bestaat en wat we daarvan kunnen gebruiken. Dit zorgt ook voro overzicht. Welke vormen van controle zijn er al, wat kunnen we daarvan gebruiken/wat werkt niet. 
 
 Interviews: deze methode is handig om te gebruiken om overzicht te krijgen over de wensen en behoeften van de gebruiker met betrekking tot het hebben van controle in het gebruik. Daarnaast kan dit inspiratie opbrengen maar ook data (praktische onderdelen). Dit is relevant omdat we zo informatie rechtstreeks bij de gebruiker kunnen ophalen. 
@@ -45,15 +44,13 @@ Interviews: deze methode is handig om te gebruiken om overzicht te krijgen over 
 ###	Welke factoren beïnvloeden het vertrouwen van gebruikers?
 ###	In hoeverre is er vertrouwen van mensen in digitale ondertekeningsdiensten?
 
-Methode: survey, interviews.
-
-Trust-mapping: maakt het visueel en bespreekbaar. Je kan diepere kennis ophalen en doordat je zelf de vertrouwensmomenten blootlegt. Hierdoor kunnen wij achterhalen waar de pijn punten liggen.
+## Methode - survey, interviews.
 
 Survey: Veel data, makkelijk te vergelijken, snel, breed publiek. Hierdoor willen wij erachter komen hoeveel vertrouwen er is om persoonlijke gegevens online te delen.
 
 Interviews: Met de interviews kunnen we makkelijker achterhalen wat de zorgen zijn of juist niet. 
 
-Techniek, gebruiker, context.
+## Afweging 
 
 Survey: Deze methode zorgt dat we veel data kunnen ophalen over hoe men er nu tegenaan kijkt over het digitaliseren van hun persoons gegevens. Dit is relevant omdat we dan kunnen inspelen op de behoeften die hieruit voortkomen. Dit geeft een overzicht in wat de gebruiker belangrijk vind. 
 
@@ -68,13 +65,13 @@ Interviews: met deze methode kunnen we nog wat dieper in op de wensen en behoeft
 ###	Hoe zit de wetgeving rondom het verwerken van gebruiksgegevens in Nederland in elkaar?
 ###	Welke persoonsgegevens zijn nodig tijdens het ondertekenen?
 
-Methode: interviews, literature study, expert interview:
+## Methode - interviews, literature study, expert interview:
 
 Interview: door te interviewen willen wij achterhalen in hoeverre de gebruiker bewust is van wat ze nu delen aan persooonlijke gegevens.
 
 Literture study en expert interview: door deze te combineren willen wij erachter komen wat de risico’s zijn, wat de wetgeving is en welke persoonsgegevens er allemaal zijn.
 
-Gebruiker en context.
+## Afweging
 
 Interview: Dit levert zowel inspiratie als data op. Weet de gebruiker wat ze nu al delen aan persoonlijke gegevens en wat daarmee gedaan wordt? Dit is relevant omdat wij die informatie kunnen gebruiken om iets te bedenken wat zo veilig mogelijk is. Daarnaast geeft dit ook overzicht over het gebruik van internet, persoons gegevens, wat ermee gedaan wordt en in hoeverre de persoon daar zelf bewsut van is. 
 
@@ -89,13 +86,13 @@ Expert interview: Deze methode helpt ons ook voor de literature study. Het geeft
 ###	Uit welke verschillende delen bestaat het digitaal onderteken process?
 ###	Welke nederlandse en europese wetgeving moet het aan voldoen?
 
-Methode: thinking out loud + userbility testing, literature study
+## Methode - thinking out loud + usability testing, literature study
 
-Thinking out loud + userbility testing: Door verschillende gebruikers van verschillende gebruikersgroepen de yivi app te laten gebruiken en hardop te laten nadenken kunnen wij achterhalen of deze gebruikersgroep een oplossing nodig heeft en waar de pijn punten liggen.
+Thinking out loud + usability testing: Door verschillende gebruikers van verschillende gebruikersgroepen de yivi app te laten gebruiken en hardop te laten nadenken kunnen wij achterhalen of deze gebruikersgroep een oplossing nodig heeft en waar de pijn punten liggen.
 
 Literature study: hierdoor willen wij achterhalen wat de Europese en nederlandse wetgeving is omtrent de digitale wallet.
 
-Gebruiker, context
+## Afweging
 
 Thinking aloud: Dit geeft ons inzicht in waar de behoeften liggen en waar de pijnpunten liggen voor de gebruikers van verschillende gebruikersgroepen. Het geeft ons inspiratie en data. Hoe ervaart de gebruiker het nu over het algemeen en in detail (specifieke handelingen). Dit geeft ons zekerheid in hoe Yivi nu gebruikt en ervaren wordt. 
 
@@ -113,13 +110,13 @@ Literature study: Geeft ons zowel inspiratie als data. Zoals aan welke wetgeving
 ###	Welke software ondersteunt al digitaal ondertekenen?
 ###	Waar lopen gebruikers van Yivi nu tegenaan?
 
-Methode: literature study, online analytics.
+## Methode - literature study, online analytics.
 
 Literature study: hierdoor willen wij achterhalen welke middelen er allemaal zijn, en waar gebruikers van de yivi app nu tegenaan lopen (echter doen we dit ook al met de usernility testing).
 
 Online analytics: hierdoor kunnen wij achterhalen welke complicaties er zijn, waar de gebruikers tegenaan lopen en welke middelen de gebruiker nodig heeft om te ondertekenen.
 
-Context
+## Afweging
 
 Literature study: geeft ons inspiratie en data over de verschillende middelen die er zijn om digitaal te ondertekenen. Het is grondig omdat we ook naar het werk van andere kijken. Wat is er al en hoe wordt dat ervaren? Daarnaast geeft het ons een overzicht van de verschillende manieren van digitaal ondertekenen en de voor- en nadelen hiervan. 
 
@@ -131,13 +128,13 @@ Online analytics: Gericht op data. Ophalen van gegevens van welke complicaties e
 ###	Welke ontwerpprincipes maken het digitaal ondertekenen gemakkelijker?
 ###	Welke behoeften hebben Nederlandse burgers bij het digitaal ondertekenen van documenten?
 
-Methode: interview, co-design + userbility testing,
+## Methode - interview, co-design + usability testing,
 
 Interview: door te interviewen kunnen we achterhalen hoe we het ondertekenen kunnen verbeteren.
 
-Co-design + userbility testing: hierdoor kunnen wij de gebruiker laten vertellen wat zij/hij liever zouden zien in het ondertekenen.
+Co-design + usability testing: hierdoor kunnen wij de gebruiker laten vertellen wat zij/hij liever zouden zien in het ondertekenen.
 
-Gebruiker
+## Afweging
 
 Interview: Hiermee krijgen we inspiratie zowel als data hoe we het digitaal ondertekenen kunnen verbeteren en waarom. Daarnaast is het relevant omdat dit ons inzicht geeft over de toepassingscontext van de gebruiker. Het zorgt voor een overzicht van waar we nu staan en waar de behoeften en wensen van de gebruiker liggen. 
 
@@ -152,13 +149,13 @@ Usability testing: Dit geeft ons vooral praktische informatie (data), hoe de geb
 ###	Welke beperkingen moeten we rekening mee houden bij het ontwerpen van een oplossing?
 ###	Hoe kunnen we gebruikers op een begrijpelijke manier informeren over hun rechten en keuzes bij digitaal ondertekenen?
 
-Methode: interview, literature study.
+## Methode - interview, literature study.
 
 Interview: door te interviewen van de gebruikersgroep met een beperking kunnen wij achterhalen welke complicaties erbij komen kijken.
 
 Literature study: hierdoor kunnen wij achterhalen welke beperkingen wij rekening mee moeten houden.
 
-Gebruiker, context
+## Afweging
 
 Interview: Hierdoor krijgen we inspiratie en data om te zien hoe we het ondertekenen toegankelijk kunnen maken voor zoveel mogelijk mensen. Denk aan mensen met een beperking. Dit is relevant zodat we een oplossing kunnen bedenken voor een zo breed mogelijke doelgroep waarbij niemand wordt uitgesloten. Dit geeft overzicht in hoe toegankelijk we de wallet kunnen maken. 
 

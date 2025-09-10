@@ -80,7 +80,7 @@ Gebruiker en context.
 
 Interview: Dit levert zowel inspiratie als data op. Weet de gebruiker wat ze nu al delen aan persoonlijke gegevens en wat daarmee gedaan wordt? Dit is relevant omdat wij die informatie kunnen gebruiken om iets te bedenken wat zo veilig mogelijk is. Daarnaast geeft dit ook overzicht over het gebruik van internet, persoons gegevens, wat ermee gedaan wordt en in hoeverre de persoon daar zelf bewsut van is. 
 
-Literature study: 
+Literature study: Dit geeft ons zowel inspiratie als data. Door inzichten op te doen n.a.v. wetgeving, regels, risico's enz weten we waar we ons aan moeten houden 
 
 Expert interview:
 

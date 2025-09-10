@@ -14,8 +14,12 @@ Best, good and bad practice: hiermee kunnen wij onderzoeken wat andere al hebben
 
 Afweging: techniek, gebruiker.
 
-interviews: omdat deze methode meer neigt naar data is dit een prettige methode omdat we bij de gebruiker willen ophalen/weten wat voor hun laagdrempelig is en wanneer ze dit ervaren. Dit is tevens ook relevant omdat de gebruikers het gaan gebruiken, dit zorgt voor een goed overzicht in wat de wensen en behoeften over laagdrempelig gebruik voor de gebruikers zijn. 
-co design + userbility testing:
+Interviews: omdat deze methode meer neigt naar data is dit een prettige methode omdat we bij de gebruiker willen ophalen/weten wat voor hun laagdrempelig is en wanneer ze dit ervaren. Dit is tevens ook relevant omdat de gebruikers het gaan gebruiken, dit zorgt voor een goed overzicht in wat de wensen en behoeften over laagdrempelig gebruik voor de gebruikers zijn. 
+
+Co-creation: deze methode werkt prettig om inspiratie op te halen. Daarnaast is het ook relevant omdat we zo breder kunnen nadenken dan alleen de ideeën waar wij met z'n 5en op kunnen komen. Deze methode zit tussen overzicht en zekerheid in. Het is meer bedoelt om inspiratie op te doen, maar geeft wel een overzicht aan nieuwe ideeën voor ons na het uitvoeren. 
+
+Usability Testing: Deze methode is gericht op data, we maken het voor de gebruiker dus willen we ook weten hoe de gebruiker ons ontwerp ervaart om het zo goed mogelijk te laten aansluiten op de wensen en behoeften van de gebruiker. Dit is ook relevant omdat dit meer gericht is op praktische onderdelen. Dit kan zekerheid creeëren in hoe ons ontwerp word gebruikt/ervaren. 
+
 Best good and bad practice: deze methode is prettig omdat we zo inzicht krijgen in wat er al is bedacht, waarom het er nog niet is en welke informatie er al is opgehaald in wat wel of niet werkt zodat we daarop verder kunnen werken ipv dezelfde fouten te maken. Deze methode is meer gericht op grondigheid en dus verdiepen in het werk van anderen. Dit creeërt overzicht in wat er al onderzocht/bedacht/uitgeporbeerd is met de resultaten zodat wij daarop verder kunnen gaan.
 
 

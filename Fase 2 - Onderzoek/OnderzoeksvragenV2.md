@@ -26,7 +26,6 @@
 # Wat moet de scope zijn van de oplossing?
 ###	Bij welke usecases is de oplossing nodig? Zo veel mogelijk of een limiet stellen?
 ###	Uit welke verschillende delen bestaat het digitaal onderteken process?
-###	Willen we focussen op een bepaald deel, of het hele systeem, of een mix? (bijv losjes systeem designen, hifi design voor een applicatie)
 ###	Welke nederlandse en europese wetgeving moet het aan voldoen?
 
 # Hoe werkt het digitaal onderteken process nu voor verschillende mensen?

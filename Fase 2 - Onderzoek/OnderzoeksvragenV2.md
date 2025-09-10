@@ -35,6 +35,10 @@ Interview: door te interviewen willen wij erachter komen wat de gebruikers qua c
 
 Gebruiker, context.
 
+Literature study: deze methode is gericht op het verzamelen van data maar ook voor het opdoen van inspiratie. Welke vormen van controle hebben over de gegevens zijn er en in hoeverre is dat haalbaar. Dit is ook meer gericht op grondigheid waarbij we kijken naar wat er al bestaat en wat we daarvan kunnen gebruiken. Dit zorgt ook voro overzicht. Welke vormen van controle zijn er al, wat kunnen we daarvan gebruiken/wat werkt niet. 
+
+Interviews: deze methode is handig om te gebruiken om overzicht te krijgen over de wensen en behoeften van de gebruiker met betrekking tot het hebben van controle in het gebruik. Daarnaast kan dit inspiratie opbrengen maar ook data (praktische onderdelen). Dit is relevant omdat we zo informatie rechtstreeks bij de gebruiker kunnen ophalen. 
+
 
 # Wat maakt digitaal ondertekenen "veilig"?
 ###	Hoe geven we de gebruiker een veilig gevoel?
@@ -50,6 +54,12 @@ Survey: Veel data, makkelijk te vergelijken, snel, breed publiek. Hierdoor wille
 Interviews: Met de interviews kunnen we makkelijker achterhalen wat de zorgen zijn of juist niet. 
 
 Techniek, gebruiker, context.
+
+Trust-mapping: 
+
+Survey: Deze methode zorgt dat we veel data kunnen ophalen over hoe men er nu tegenaan kijkt over het digitaliseren van hun persoons gegevens. Dit is relevant omdat we dan kunnen inspelen op de behoeften die hieruit voortkomen. Dit geeft een overzicht in wat de gebruiker belangrijk vind. 
+
+Interviews: met deze methode kunnen we nog wat dieper in op de wensen en behoeften van de gebruiker, wat inspiratie kan opbrengen maar ook praktische onderdelen (data) en geeft ook overzicht in wat de wensen en behoeften zijn en waar de gebruiker nu staat. Dit is ook relevant omdat de gebruiker het gaat gebruiken. 
 
 
 
@@ -67,6 +77,12 @@ Interview: door te interviewen willen wij achterhalen in hoeverre de gebruiker b
 Literture study en expert interview: door deze te combineren willen wij erachter komen wat de risico’s zijn, wat de wetgeving is en welke persoonsgegevens er allemaal zijn.
 
 Gebruiker en context.
+
+Interview: Dit levert zowel inspiratie als data op. Weet de gebruiker wat ze nu al delen aan persoonlijke gegevens en wat daarmee gedaan wordt? Dit is relevant omdat wij die informatie kunnen gebruiken om iets te bedenken wat zo veilig mogelijk is. Daarnaast geeft dit ook overzicht over het gebruik van internet, persoons gegevens, wat ermee gedaan wordt en in hoeverre de persoon daar zelf bewsut van is. 
+
+Literature study: 
+
+Expert interview:
 
 
 

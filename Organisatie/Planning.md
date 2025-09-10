@@ -15,6 +15,21 @@ Voorbereiding & Onderzoek
 
 ## Woensdag
 **5A - Projectplan**
+- Taken verdelen onderzoek
+- leren toets
+
+## donderdag
+- gebruikers regelen voor onderzoek (30 min)
+- surveys maken (30 min)
+- interviews inplannen
+- interview vragen maken
+- plan van aanpak maken voor: co-design + userbility testing en thinking out loud + userbility testing.
+- vertrouwingsmomenten blootleggen voor trust mapping
+
+## vrijdag
+- leren tentamen (allemaal)
+- surveys versturen
+- interview vragen verder maken
 
 # Week 3
 Gebruikersonderzoek
@@ -22,6 +37,23 @@ Gebruikersonderzoek
 ## Maandag
 **5B - Kennistoets**
 - Herzien onderzoeksplan
+- literature study
+- online analytics
+- good and bad practice
+- online analytics
+
+## Dinsdag
+- literature study
+- online analytics
+- good and bad practice
+- online analytics
+
+## Woensdag
+- interviews met genodige
+- trustmapping met genodigde
+- experts interview met genodigde
+- co-design + userbility testing met genodigde
+- thinking outloud + userbility testing met genodigde
 
 ## Donderdag
 - Analyseren van onderzoeksresultaten

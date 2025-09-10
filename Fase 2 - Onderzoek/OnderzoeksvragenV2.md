@@ -3,16 +3,14 @@
 ### Wat maakt digitaal ondertekenen "laagdrempelig"?
 ### Als er mogelijkheid is om digitaal ondertekenen laagdrempelig te maken, waarom is dit dan nog niet toegepast?
 
-
-Methode: interviews, co design + userbility testing, best good and bad practice.
-
+## Methode - interviews, co-creation + usability testing, best good and bad practice.
 Interviews: hiermee verzamelen wij diepgaande inzichten en kunnen we dat aan verschillende gebruikersgroepen vragen zodat wij meer inzage krijgen in wat “laagdrempeligheid” inhoudt.
 
-Co design + usability testing: hiermee krijgen wij meer inzicht over waar verschillende gebruikersgroepen mee worstelen en omdat wij hier te weinig over weten kan het helpen als zij al met voorbeeld oplossingen komen die ons op weg kunnen helpen om dat verder uit te bouwen.
+Co-creation + usability testing: hiermee krijgen wij meer inzicht over waar verschillende gebruikersgroepen mee worstelen en omdat wij hier te weinig over weten kan het helpen als zij al met voorbeeld oplossingen komen die ons op weg kunnen helpen om dat verder uit te bouwen.
 
 Best, good and bad practice: hiermee kunnen wij onderzoeken wat andere al hebben gedaan, vergelijken, en wat daarvan belangrijk voor ons is en wat niet.
 
-Afweging: techniek, gebruiker.
+## Afweging
 
 Interviews: omdat deze methode meer neigt naar data is dit een prettige methode omdat we bij de gebruiker willen ophalen/weten wat voor hun laagdrempelig is en wanneer ze dit ervaren. Dit is tevens ook relevant omdat de gebruikers het gaan gebruiken, dit zorgt voor een goed overzicht in wat de wensen en behoeften over laagdrempelig gebruik voor de gebruikers zijn. 
 

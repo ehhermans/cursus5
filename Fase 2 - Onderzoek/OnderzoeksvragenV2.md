@@ -80,9 +80,9 @@ Gebruiker en context.
 
 Interview: Dit levert zowel inspiratie als data op. Weet de gebruiker wat ze nu al delen aan persoonlijke gegevens en wat daarmee gedaan wordt? Dit is relevant omdat wij die informatie kunnen gebruiken om iets te bedenken wat zo veilig mogelijk is. Daarnaast geeft dit ook overzicht over het gebruik van internet, persoons gegevens, wat ermee gedaan wordt en in hoeverre de persoon daar zelf bewsut van is. 
 
-Literature study: Dit geeft ons zowel inspiratie als data. Door inzichten op te doen n.a.v. wetgeving, regels, risico's enz weten we waar we ons aan moeten houden 
+Literature study: Dit geeft ons zowel inspiratie als data. Door inzichten op te doen n.a.v. wetgeving, regels, risico's enz weten we waar we ons aan moeten houden. Dit is tevens ook een grondig onderzoek en geeft ons een overzicht aan welke praktische regels we ons moeten houden.  
 
-Expert interview:
+Expert interview: Deze methode helpt ons ook voor de literature study. Het geeft ons inspiratie om te kijken op welke dingen we echt moeten letten en dit kan ons informatie geven over wat nou echt belangrijk is. Ook scheelt dit in tijd i.p.v. oneindig op het internet of de bibliotheek te gaan zoeken. Het is grondig omdat het ons snel een duidelijke zoekrichting kan geven en dat geeft ons weer een overzicht over welke dingen belangrijk zijn en welke dingen misschien wat minder. 
 
 
 
@@ -98,6 +98,12 @@ Thinking out loud + userbility testing: Door verschillende gebruikers van versch
 Literature study: hierdoor willen wij achterhalen wat de Europese en nederlandse wetgeving is omtrent de digitale wallet.
 
 Gebruiker, context
+
+Thinking aloud: Dit geeft ons inzicht in waar de behoeften liggen en waar de pijnpunten liggen voor de gebruikers van verschillende gebruikersgroepen. Het geeft ons inspiratie en data. Hoe ervaart de gebruiker het nu over het algemeen en in detail (specifieke handelingen). Dit geeft ons zekerheid in hoe Yivi nu gebruikt en ervaren wordt. 
+
+Usability testing: sluit aan bij de vorige. Geeft ons vooral data in het gebruik en de ervaring van Yivi. Daarnaast is het relevant omdat we op die resultaten verder kunnen werken. Het kan een startpunt aangeven. Daarnaast geeft het ons ook zekerheid in hoe Yivi gebruikt wordt en hoe een gebruiker ermee omgaat. 
+
+Literature study: Geeft ons zowel inspiratie als data. Zoals aan welke wetgeving moeten we voldoen. Hoe hebben ze Yivi gemaakt en waarom, zodat we daarmee verder kunnen. Dit is een grondige methode, hiermee kunnen we ook vooronderzoek op de usability test en de thinking aloud methode. Het geeft ons een overzicht van de Europese EN Nederlandse wetgeving. 
 
 
 # Hoe werkt het digitaal onderteken process nu voor verschillende mensen?
@@ -117,6 +123,10 @@ Online analytics: hierdoor kunnen wij achterhalen welke complicaties er zijn, wa
 
 Context
 
+Literature study: geeft ons inspiratie en data over de verschillende middelen die er zijn om digitaal te ondertekenen. Het is grondig omdat we ook naar het werk van andere kijken. Wat is er al en hoe wordt dat ervaren? Daarnaast geeft het ons een overzicht van de verschillende manieren van digitaal ondertekenen en de voor- en nadelen hiervan. 
+
+Online analytics: Gericht op data. Ophalen van gegevens van welke complicaties er zijn, waar de zwakke punten liggen en welke middelen de gebruiker nodig heeft om te ondertekenen. Dit geeft ons zekerheid in het gebruik en de ervaring van de gebruiker. Deze inzichten kunnen we weer gebruiken om op door te werken. 
+
 
 # Hoe kunnen we de ervaring van het onderteken process verbeteren?
 ###	Hoe ziet digitaal ondertekenen er ideaal uit voor de gebruiker?
@@ -130,6 +140,12 @@ Interview: door te interviewen kunnen we achterhalen hoe we het ondertekenen kun
 Co-design + userbility testing: hierdoor kunnen wij de gebruiker laten vertellen wat zij/hij liever zouden zien in het ondertekenen.
 
 Gebruiker
+
+Interview: Hiermee krijgen we inspiratie zowel als data hoe we het digitaal ondertekenen kunnen verbeteren en waarom. Daarnaast is het relevant omdat dit ons inzicht geeft over de toepassingscontext van de gebruiker. Het zorgt voor een overzicht van waar we nu staan en waar de behoeften en wensen van de gebruiker liggen. 
+
+Co-design:
+
+Usability testing:
 
 
 # Hoe kunnen we de ervaring van het onderteken process toegankelijk maken?
@@ -146,6 +162,9 @@ Literature study: hierdoor kunnen wij achterhalen welke beperkingen wij rekening
 
 Gebruiker, context
 
+Interview:
+
+Literature study:
 
 
 

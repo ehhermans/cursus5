@@ -1,6 +1,9 @@
 # Cursus 5
 ## Planning
 https://github.com/users/ehhermans/projects/7/views/1
+
+## Algemene verwijzingen
+[Logboek](https://hannl-my.sharepoint.com/:w:/r/personal/n_dijkstra7_student_han_nl/_layouts/15/Doc.aspx?sourcedoc=%7B2F70742B-50CC-4A8E-B0B9-60B258FE4B1C%7D&file=Logboek_cursus5.docx&fromShare=true&action=default&mobileredirect=true)
 ## Fase 1 - Vooronderzoek
 [Masterdoc vooronderzoek](https://github.com/ehhermans/cursus5/blob/main/Fase%201%20-%20Vooronderzoek/Masterdoc.md)
 
